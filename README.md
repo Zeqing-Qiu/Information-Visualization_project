@@ -19,7 +19,7 @@ Information Visualization<br>
 │&emsp;&emsp;README.md<br>
 │&emsp;&emsp;Project_code.ipynb<br>
 │<br>
-└───Group_5_Essay<br>
+└───Project_Essay<br>
 &emsp;&emsp;&emsp;│&emsp;&emsp;Project_Essay.md<br>
 &emsp;&emsp;&emsp;│&emsp;&emsp;Project_Essay.pdf<br>
 &emsp;&emsp;&emsp;│<br>
