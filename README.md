@@ -1,11 +1,11 @@
 # Information Visualization Group 5
 
 ## Group members' information
-|     Name    |Student ID  |        Email          |
-|-------------|------------|-----------------------|
-| Yixin Zhang |320190940790|zhangyixin19@lzu.edu.cn|
-| Shuaike Xu  |320190940640|  xushk2019@lzu.edu.cn |
-|  Zeqing Qiu |320190940381|  qiuzq2019@lzu.edu.cn  |
+|      College     | Student ID|        Email          |
+|------------------|-----------|-----------------------|
+|Lanzhou university|Yixin Zhang|zhangyixin19@lzu.edu.cn|
+|Lanzhou university|Shuaike Xu |   xushk2019@lzu.edu.cn|
+|Lanzhou university|Zeqing Qiu |   qiuzq2019@lzu.edu.cn|
 
 ## The file structure
 group_5_320190940790_320190940640_320190940381<br>
