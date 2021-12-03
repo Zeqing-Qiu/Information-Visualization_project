@@ -18,7 +18,7 @@ In recent years, the frequency of small floods in many areas is increasing, and 
 Information Visualization<br>
 │&emsp;&emsp;README.md<br>
 │&emsp;&emsp;Project_code.ipynb<br>
-|&emsp;&emsp;maxdata.csv<br>
+│&emsp;&emsp;maxdata.csv<br>
 │<br>
 └───Project_Essay<br>
 &emsp;&emsp;&emsp;│&emsp;&emsp;Project_Essay.md<br>
